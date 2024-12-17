@@ -2,7 +2,7 @@ import tkinter as tk
 
 # Create the main window
 window = tk.Tk()
-windoow.title("Hello Tkinter")
+window.title("Hello Tkinter")
 window.geometry("300x200")  # Set window size (width x height)
 
 # Add a Label widget
