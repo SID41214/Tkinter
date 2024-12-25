@@ -4,7 +4,7 @@
 
 # Start, stop, and reset buttons.
 # # Time display in minutes and seconds.
-# import tkinter as tk
+import tkinter as tk
 
 # Global variables
 counter = 0
