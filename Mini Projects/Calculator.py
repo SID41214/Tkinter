@@ -1,7 +1,7 @@
 # Create a simple calculator that performs basic arithmetic operations like 
 # addition, subtraction, multiplication, and division.
 
-import tkinter as tk
+# import tkinter as tk
 
 def calculate():
     try:
